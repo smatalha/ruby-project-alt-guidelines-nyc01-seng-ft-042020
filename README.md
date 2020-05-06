@@ -301,6 +301,7 @@ We can avoid our refactor step by realizing that we can create a reusable method
 def show_reviews(reviews)
   reviews.each do |review|
     # How could we output this review's content and the username associated with it?
+    
   end
 end
 ```
